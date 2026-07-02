@@ -177,7 +177,7 @@ function restart(){
 
     obstacles.length = 0;
 
-    document.getElementById("heart").textContent = "❤️❤️❤️";
+    document.getElementById("heart").textContent = "❤️❤️❤️❤️❤️❤️❤️";
 
 }
 
