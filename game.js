@@ -132,7 +132,7 @@ player.draw();
 
         ctx.font="bold 50px Arial";
         ctx.fillText(
-            "CUPU AMAT KALAH",
+            "CUPU KALAH",
             canvas.width/2,
             canvas.height/2
         );
