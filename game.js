@@ -65,7 +65,7 @@ function update(){
 
         if(Math.sqrt(dx*dx + dy*dy) < 30){
 
-            GAME.coin++;
+            GAME.coin+=10;
             coinSound();
             CAMERA.flash = 2;
 
